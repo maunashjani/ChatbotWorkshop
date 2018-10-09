@@ -1,0 +1,17 @@
+Chatfuel Chatbot Steps
+
+1. Create a bot.
+2. Connect to Facebook page.
+3. Go to Automate option to design the bot.
+4. Change the parameter binding and add {{ lastname }}
+5. Verify the configuration that page is linked with the bot.
+6. Click Test This ChatBot
+7. View on Messenger
+8. Create a new block in the Add Button of Welcome Message block
+9. Incase of an issue while testing in the messenger. Delete the conversation.
+10. Train the bot for more intent or blocks.
+11. Go to Set Up AI
+12. Click ADD AI RULE
+13. Give different words and select the block.
+14. Test the chatbot again.
+15. Go to People block for Analytics.
